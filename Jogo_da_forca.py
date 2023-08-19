@@ -1,5 +1,7 @@
 from tkinter import *
 from Funcoes import *
+import string
+import json
 
 class Janela:
     def __init__(self, toplevel):
